@@ -2,3 +2,4 @@ hola
 
 este es el primer commit
 
+este es el texto agregado desde la plataforma de git
